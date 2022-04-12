@@ -239,6 +239,7 @@ call JSAddImportDefinition({'name': 'hbs', 'default': 0, 'from': 'ember-cli-html
 call JSAddImportDefinition({'name': 'singularize', 'default': 0, 'from': 'ember-inflector'})
 call JSAddImportDefinition({'name': 'pluralize', 'default': 0, 'from': 'ember-inflector'})
 call JSAddImportDefinition({'name': 'tracked', 'default': 0, 'from': '@glimmer/tracking'})
+call JSAddImportDefinition({'name': 'cached', 'default': 0, 'from': '@glimmer/tracking'})
 call JSAddImportDefinition({'name': 'Component', 'default': 1, 'from': '@glimmer/component'})
 call JSAddImportDefinition({'name': 'Model', 'default': 1, 'from': '@ember-data/model'})
 call JSAddImportDefinition({'name': 'Adapter', 'default': 1, 'from': '@ember-data/adapter'})
