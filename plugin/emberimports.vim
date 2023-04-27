@@ -188,6 +188,7 @@ call JSAddImportDefinition({'name': 'visit', 'default': 0, 'from': '@ember/test-
 call JSAddImportDefinition({'name': 'currentRouteName', 'default': 0, 'from': '@ember/test-helpers'})
 call JSAddImportDefinition({'name': 'currentURL', 'default': 0, 'from': '@ember/test-helpers'})
 call JSAddImportDefinition({'name': 'render', 'default': 0, 'from': '@ember/test-helpers'})
+call JSAddImportDefinition({'name': 'rerender', 'default': 0, 'from': '@ember/test-helpers'})
 call JSAddImportDefinition({'name': 'clearRender', 'default': 0, 'from': '@ember/test-helpers'})
 call JSAddImportDefinition({'name': 'waitUntil', 'default': 0, 'from': '@ember/test-helpers'})
 call JSAddImportDefinition({'name': 'settled', 'default': 0, 'from': '@ember/test-helpers'})
